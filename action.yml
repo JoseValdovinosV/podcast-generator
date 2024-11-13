@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Project"
 author: "Jose Valdovinos Vega"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
